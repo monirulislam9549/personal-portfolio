@@ -25,13 +25,17 @@
     font-weight: 700;
     font-size: 20px;
     border-radius: 5px;
+    border: 1px solid transparent;
+    cursor: pointer;
 }
 
-/* .btn-primary:hover {
+.btn-primary:hover {
     background-color: #FFFFFF;
     border: 1px solid black;
     color: black;
-} */
+    transition: all 0.3s ease;
+
+}
 
 nav {
     display: flex;
