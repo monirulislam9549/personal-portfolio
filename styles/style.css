@@ -49,6 +49,10 @@ nav li {
     margin-left: 50px;
 }
 
+section {
+    margin-top: 130px;
+}
+
 .nav-title {
     font-weight: 800;
     font-size: 45px;
@@ -93,7 +97,6 @@ main {
 }
 
 .about {
-    margin-top: 130px;
     background: #FFF8F3;
     border-radius: 10px;
     padding: 130px 156px;
@@ -102,7 +105,7 @@ main {
 
 .section-title {
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
     font-size: 35px;
     font-weight: 700;
 }
@@ -131,9 +134,6 @@ main {
     font-weight: 700;
 }
 
-.what-i-do {
-    margin-top: 130px;
-}
 
 .section-description {
     color: #757575;
